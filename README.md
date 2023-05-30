@@ -22,6 +22,7 @@ At the top right (cyan), where you can see a big cube and a big sphere, is the v
 
 Note that now you see only gray. This is because your are in Solid View, used to model things. But we want to textures things !
 For this, at the top right of the viewport (yellow rectangle), you can see 4 tiny spheres. Select the one at the middle right and you should see something more like this :
+
 ![image](https://github.com/axel-denis/Blender-Workshop-Shading/assets/91873203/e39c60d9-9ec9-4f4d-ba8d-96a153b6d683)
 ![image](https://github.com/axel-denis/Blender-Workshop-Shading/assets/91873203/1c28d8c8-c734-406d-85ca-ff76075da1f3)
 
@@ -29,8 +30,11 @@ For this, at the top right of the viewport (yellow rectangle), you can see 4 tin
 On each tab, the text will start by :
 Viewport: Material Preview/Rendered
 If you see "Material Preview", switch to this mode :
+
 ![image](https://github.com/axel-denis/Blender-Workshop-Shading/assets/91873203/e39c60d9-9ec9-4f4d-ba8d-96a153b6d683)
+
 If you see "Rendered" swith to this mode :
+
 ![image](https://github.com/axel-denis/Blender-Workshop-Shading/assets/91873203/00406c28-d63c-421c-ba4c-e432ecf546d5)
 
 This is because Material Preview is faster (useful because we will all be on laptop for this workshop), but less accurate that rendered view (no shadows by example). So sometimes we will need to use Rendered view despite it performance impact (but don't be worried, it's not like night and day, it's a small but noticeable impact)
