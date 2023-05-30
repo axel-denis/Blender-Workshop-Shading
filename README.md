@@ -21,7 +21,19 @@ At the bottom right (magenta), you can see the Node Editor, where we are going t
 At the top right (cyan), where you can see a big cube and a big sphere, is the viewport, where you can *see* your textures.
 
 Note that now you see only gray. This is because your are in Solid View, used to model things. But we want to textures things !
-For this, at the top right of the viewport (yellow rectangle), you can see 4 tiny spheres. Select the one at the right and you should see something more like this :
-![image](https://github.com/axel-denis/Blender-Workshop-Shading/assets/91873203/0df9cad5-8c77-4439-8796-0805c6f8c613)
+For this, at the top right of the viewport (yellow rectangle), you can see 4 tiny spheres. Select the one at the middle right and you should see something more like this :
+![image](https://github.com/axel-denis/Blender-Workshop-Shading/assets/91873203/dada5405-6baa-4355-abd8-22ae526840c6)
+![image](https://github.com/axel-denis/Blender-Workshop-Shading/assets/91873203/d0ddb496-134b-4b0e-b80a-b526ebdf46f2)
 
 **Don't forget that you will need to do it for each tab.**
+On each tab, the text will start by :
+Viewport: Material Preview/Rendered
+If you see "Material Preview", switch to this mode :
+![image](https://github.com/axel-denis/Blender-Workshop-Shading/assets/91873203/dada5405-6baa-4355-abd8-22ae526840c6)
+If you see "Rendered" swith to this mode :
+![image](https://github.com/axel-denis/Blender-Workshop-Shading/assets/91873203/72aed624-b428-4a6e-a9fa-5f23dc6bf665)
+
+This is because Material Preview is faster (useful because we will all be on laptop for this workshop), but less accurate that rendered view (no shadows by example). So sometimes we will need to use Rendered view despite it performance impact (but don't be worried, it's not like night and day, it's a small but noticeable impact)
+
+So, now that you're all set, it's up to you ! Read carefully the instructions of each steps and start to create your own textures !
+Don't skip steps !
